@@ -1,5 +1,6 @@
-# Africoin
- Africoin is a cryptocurrency. It is a decentralized digital currency without a central bank or single administrator that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.
+# Blockchain
+
+Blockchain is a block explorer service, as well as a cryptocurrency wallet supporting KryptoCoin. It is a decentralized digital currency without a central bank or single administrator that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.
 
 ### Functionnalities
  - Create a blockchain with the Genesis block
